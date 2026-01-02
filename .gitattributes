@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 图像识别与训练策略 filter=lfs diff=lfs merge=lfs -text
+D:/Github_space/PyTorch/图像识别与训练策略/best.pt filter=lfs diff=lfs merge=lfs -text
