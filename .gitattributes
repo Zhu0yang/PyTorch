@@ -2,3 +2,8 @@
 * text=auto
 图像识别与训练策略 filter=lfs diff=lfs merge=lfs -text
 D:/Github_space/PyTorch/图像识别与训练策略/best.pt filter=lfs diff=lfs merge=lfs -text
+DataLoader数据集处理 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+卷积网络CNN filter=lfs diff=lfs merge=lfs -text
+学习笔记 filter=lfs diff=lfs merge=lfs -text
+神经网络分类与回归任务 filter=lfs diff=lfs merge=lfs -text
